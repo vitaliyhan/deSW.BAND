@@ -95,7 +95,9 @@ def rename_files_in_zip(zip_path, output_zip_path, exclude_files=None, pattern_t
 exclude_files = [
     "[WWW.SW.BAND] 150000 курсов ждут тебя!.url",
     "[WWW.SW.BAND] Прочти перед изучением!.docx",
-    "[DMC.RIP] Качай редкие курсы!.url"
+    "[DMC.RIP] Качай редкие курсы!.url",
+    "SHAREWOOD_ZERKALO_COM_90000_курсов_на_нашем_форуме!.url",
+
 ]
 
 # Specify the source and output zip paths
